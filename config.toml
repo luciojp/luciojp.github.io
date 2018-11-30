@@ -1,4 +1,4 @@
-baseURL = "https://luciojp.github.io/luciojp.github.io/"
+baseURL = "https://luciojp.github.io/portfolio2/"
 publishDir = "docs"
 languageCode = "pt-br"
 title = "Antonio Lúcio Website"
