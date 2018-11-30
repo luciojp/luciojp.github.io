@@ -1,7 +1,7 @@
-baseURL = "https://luciojp.github.io/portfolio/"
+baseURL = "https://luciojp.github.io/"
 publishDir = "docs"
 languageCode = "pt-br"
-title = "Antonio Lúcio Website"
+title = "Antonio LÃºcio Website"
 theme = "hugo-uilite"
 themesDir = "themes"
 
